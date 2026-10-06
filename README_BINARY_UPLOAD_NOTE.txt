@@ -1,0 +1,1 @@
+Binary image blobs will be committed through Git data APIs; this note can be removed after completion.
